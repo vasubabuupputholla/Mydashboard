@@ -1,0 +1,6 @@
+{
+  "name": "ServiceFlow",
+  "description": "Admin and Technician Dashboard for Service, Stock and Incentive Management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
